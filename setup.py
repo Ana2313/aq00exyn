@@ -12,7 +12,7 @@
     "setup(name='aq00exyn',\n",
     " version='0.1',\n",
     " author='DSSS',\n",
-    " author_email='anagha.shastry.subramanya@fau.de',\n",
+    " author_email='anaghashastry2021@gmail.com',\n",
     " packages=find_packages(),\n",
     " install_requires=['numpy', 'Pillow', 'ipywidgets'])"
    ]
